@@ -1,0 +1,149 @@
+password: UCLMIABD-2022
+
+1. Conceptos Básicos: https://vimeo.com/600138997
+2. Conjuntos Datos y Actividad: https://vimeo.com/607410896
+3. Sobreaprendizaje y Validación Cruzada: https://vimeo.com/600139589
+4. Ejemplo de aplicación de NaiveBayes: https://vimeo.com/600139890
+5. NaiveBayes con Scikit Learn: https://vimeo.com/600140324
+6. Ejemplo de aplicación de KNN: https://vimeo.com/600140928
+7. KNN con Scikit Learn: https://vimeo.com/600141357
+8. Optimización de parámetros en KNN con Scikit-Learn: https://vimeo.com/600142285
+---------------------------------------------------------------
+
+1. Árboles de Decisión: https://vimeo.com/607427576
+
+2. Árboles de Decisión con Scikit-learn: https://vimeo.com/607428168
+
+3. Conjuntos de Modelos: https://vimeo.com/607428500
+
+4. Conjuntos de Modelos en Scikit-learn: https://vimeo.com/610682538
+
+5. Selección de Modelos: https://vimeo.com/610683355
+
+6. GridSearch y RandomSearch: https://vimeo.com/610683629
+
+7. Algoritmo Adaboost: https://vimeo.com/610684154
+
+8. Boosting Optimizado con Scikit-learn: https://vimeo.com/610684470
+
+-------------------Otros modelos---------------------------------------------------------
+
+DotCSV:
+
+1. Regresión Lineal y Mínimos Cuadrados Ordinarios: https://youtu.be/k964_uNn3l0?si=MCycolCDeTLQMphD
+
+2. ¿Qué es el Descenso del Gradiente?: https://youtu.be/A6FiCDoz8_4?si=8Fow1bOd7QOYLWxk
+
+Universidad Castilla La Mancha (password: UCLMIABD-2022):
+
+1. Regresión: https://vimeo.com/616940622
+
+2. Ejemplo de Regresión y Regularización: https://vimeo.com/616941583
+
+3. Regresión Logística: https://vimeo.com/616942036
+
+4. Clasificación Binaria con Regresión Logística: https://vimeo.com/616942536
+
+5. Introducción a SVM: https://vimeo.com/616942963
+
+6. SVM y los Kernels: https://educacionadistancia.juntadeandalucia.es/profesorado/mod/url/view.php?id=517054
+
+7. Aprendizaje Supervisado - Proceso: https://vimeo.com/616943890
+
+8. Aprendizaje Supervisado - Resumen: https://vimeo.com/616944306
+--------------------------------------------------------------------------
+¿Qué es el Aprendizaje No Supervisado?: https://youtu.be/oT3arRRB2Cw?t=295
+--------------------------------------------------------------------------------------
+k-Means Clustering: Simply explained & calculated: https://youtu.be/jZs5rX8Kl3o
+--------------------------------------------------------------------------------------
+
+password: UCLMIABD-2022
+
+1. Distancia: https://vimeo.com/625529260
+
+2. K-means: https://vimeo.com/625532045
+
+3. Consideraciones sobre k-means: https://vimeo.com/625538982
+
+4. K-means: Ejemplo: https://vimeo.com/625540036
+
+5. Fuzzy C-means: https://vimeo.com/625542497
+
+6. Fuzzy C-means: Ejemplo: https://vimeo.com/625543519
+
+7. Caso práctico: Determinación de patrones de tráfico 1: https://vimeo.com/625544324
+
+8. Caso práctico: Determinación de patrones de tráfico 2: https://vimeo.com/625545629
+
+9. Algoritmos jerárquicos: https://vimeo.com/625554907
+
+10. Clustering Jerárquico: Ejemplo: https://vimeo.com/630956843
+
+11. DBSCAN: https://vimeo.com/625555238
+
+12. DBSCAN: Ejemplo: https://vimeo.com/630956372
+
+13. Clustering con picos de densidad: https://vimeo.com/625556510
+
+14. Algoritmo basado en picos de densidad: Ejemplo: https://vimeo.com/630944670
+
+15. K-means con truco del núcleo: https://vimeo.com/625557520
+
+16. Algoritmo K-means basados en núcleos: https://vimeo.com/630948643
+---------------------------------------------------------------------------
+Clustering with DBSCAN, Clearly Explained: https://youtu.be/RDZUdRSDOok
+-----------------------------------------------------------------------------
+-----Redes neuronales------------------------------------------------------
+
+1. Definición e historia: https://vimeo.com/632947931
+
+2. Arquitecturas y funciones de activación: https://vimeo.com/632949239
+
+3. Aprendizaje (I): https://vimeo.com/632943150
+
+4. Aprendizaje (II): https://vimeo.com/632947166
+
+5. Perceptrón multicapa con backpropagation (I): https://vimeo.com/636270358
+
+6. Perceptrón multicapa con backpropagation (II): https://vimeo.com/636274303
+
+7. Ejemplo PMC: https://vimeo.com/636276813
+
+8. Mapas de Kohonen (Ejemplo): https://vimeo.com/636277446
+
+-----Deep Learning-----------------------------------------------------------
+
+1. Repaso de Redes Neuronales: https://vimeo.com/640349570
+
+2. Clasificación Binaria con Redes Neuronales: https://vimeo.com/640349776
+
+3. Redes Neuronales para Clasificación Múltiple: https://vimeo.com/640350092
+
+4. Regresión con Redes Neuronales: https://vimeo.com/640350388
+
+5. Deep Learning: https://vimeo.com/640350725
+
+6. Crear y Entrenar Redes Neuronales Convulocionales (CNN): https://vimeo.com/640350997
+
+7. Transfer Learning con Keras: https://vimeo.com/640351256
+
+8. Comenzando con PyTorch: https://vimeo.com/640351593
+
+----------------------------------------------------------------------------
+Redes Neuronales Convolucionales (DotCSV): https://youtu.be/V8j1oENVz00
+---------------------------------------------------------------------------
+1. Validación en Clasificación Binaria: https://vimeo.com/641901212
+
+2. Curva ROC: https://vimeo.com/641901277
+
+3. Comparación de Clasificadores Binarios: https://vimeo.com/641900887
+
+4. Matriz de Confusión con Clases Múltiples: https://vimeo.com/641900956
+
+5. Validación de Modelos de Regresión: https://vimeo.com/641901015
+
+6. Métricas de Calidad en Clustering: https://vimeo.com/641901079
+
+7. Comparación de Algoritmos en Clustering: https://vimeo.com/641901145
+
+8. Selección de Modelos: https://vimeo.com/641901469
