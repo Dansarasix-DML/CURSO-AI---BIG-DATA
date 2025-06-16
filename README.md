@@ -21,3 +21,4 @@ El curso se compone de 5 módulos:
 * [carpeta data](https://drive.google.com/drive/folders/11Z5P1kHzoEQjdQICyLwT386g7rwC9poU?usp=drive_link)
 * [carpeta parking](https://drive.google.com/drive/folders/1kN6YNOYuRj8NzUc3dXwoKlAJnrceF2eL?usp=drive_link)
 * [carpeta de videos](https://drive.google.com/drive/folders/1Hg4_yv33OLNUuu89E1vko_E2SYlj52E3?usp=drive_link)
+* [Blog BDA](https://jaimerabasco.github.io/CE-IABD_BigDataAplicado_IESGranCapitan/)
